@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+     background:url(book.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    margin-top: 10px;
+    color:pink;
+    font-weight: 700;
+    text-align: justify;
+    margin-left: 50px;
+}
+.label{
+    color:whitesmoke ;
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: normal;
+}
+.inputs{
+   background: rgba(255,255,255,0.2);
+   border:0px;
+   border-radius:0px;
+   border-bottom:2px solid whitesmoke;
+   font-size: 20px;
+   margin-top: 20px;
+}
+span{
+    margin: 200px;
+    padding: 20px;
+    color: red;
+}
+button{
+    margin-top: 10%;
+}
